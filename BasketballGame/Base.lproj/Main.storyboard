@@ -40,7 +40,7 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="SZV-WD-TEh" sceneMemberID="firstResponder"/>
                 <tapGestureRecognizer id="nbe-jQ-JCG">
                     <connections>
-                        <action selector="userTapped:" destination="BV1-FR-VrT" id="57k-eT-r0B"/>
+                        <action selector="userTapped:" destination="BV1-FR-VrT" id="fJc-yf-ni4"/>
                     </connections>
                 </tapGestureRecognizer>
             </objects>
